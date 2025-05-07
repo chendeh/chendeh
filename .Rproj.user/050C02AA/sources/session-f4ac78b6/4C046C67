@@ -3,7 +3,7 @@
     "path": "C:/Users/Dehao/Desktop/School/chendeh/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "1280818001",
+    "hash": "877599737",
     "contents": "",
     "dirty": false,
     "created": 1746577099002.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,18",
+        "cursorPosition": "5,20",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1746577142,
+    "lastKnownWriteTime": 1746586770,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1746577142304,
+    "last_content_update": 1746586770902,
     "read_only": false,
     "read_only_alternatives": []
 }
