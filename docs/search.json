@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "chendeh",
+    "title": "Dehao Chen",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     TikTok\n  \n  \n    \n     Resume\n  \n\n  \n  \nHello everyone! This is my first Quarto website.\nThis is a picture of my cat and I. His name is Shumai! He is a British Shorthair breed.\nHere is another picture.\n\n\n\nHim sleeping like he pays the bills\n\n\nIf you think he is cute, then you should consider hiring me for the job!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,47 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Dehao Chen",
+    "section": "Skills",
+    "text": "Skills\n\nAdvanced Data Visualization with ggplot2\nWeb Development using HTML, RStudio, and Github\n\nData Cleaning and Analysis with R and SQL"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Dehao Chen",
+    "section": "Education",
+    "text": "Education\n\nB.S. in Information Systems, Minor in Data Science University of Colorado Denver\nGPA: 3.87\nRelevant Courses: Data Wrangling & Visualization, Business Data & Database Management, Programming for Data Science"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "My Three Favorite Hobbies",
+    "section": "",
+    "text": "Music has always been more than just background noise for me, it’s a way to process my emotions and escape from reality. Whether it’s piano anime songs while studying, emotional songs during tough times, or upbeat hip pop when I need a mood boost, music gives me space to reflect and reset. I wouldn’t say I’m a music expert, but I’m passionate about discovering new genres and creating playlists for every mood."
+  },
+  {
+    "objectID": "hobbies.html#listening-to-music",
+    "href": "hobbies.html#listening-to-music",
+    "title": "My Three Favorite Hobbies",
+    "section": "",
+    "text": "Music has always been more than just background noise for me, it’s a way to process my emotions and escape from reality. Whether it’s piano anime songs while studying, emotional songs during tough times, or upbeat hip pop when I need a mood boost, music gives me space to reflect and reset. I wouldn’t say I’m a music expert, but I’m passionate about discovering new genres and creating playlists for every mood."
+  },
+  {
+    "objectID": "hobbies.html#going-to-the-gym",
+    "href": "hobbies.html#going-to-the-gym",
+    "title": "My Three Favorite Hobbies",
+    "section": "Going to the Gym 🏋",
+    "text": "Going to the Gym 🏋\nFitness plays a huge role in my daily life. I started going to the gym to improve my health and meet personal goals, but over time it became something I genuinely look forward to. It gives me structure, helps relieve stress, and pushes me to stay disciplined. I’m not a professional athlete, but I’ve made great progress and am proud of how far I’ve come."
+  },
+  {
+    "objectID": "hobbies.html#fashion",
+    "href": "hobbies.html#fashion",
+    "title": "My Three Favorite Hobbies",
+    "section": "Fashion 👖",
+    "text": "Fashion 👖\nFashion is one of the ways I express myself and feel confident. I love putting together outfits that reflect my mood, personality, or even the weather. It’s not about trends, it’s about finding what feels good and shows the world who I am."
   }
 ]

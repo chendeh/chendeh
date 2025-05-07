@@ -1,11 +1,52 @@
 ---
-title: "chendeh"
+title: "Dehao Chen"
+image: mypic.jpeg
+resources: resume.pdf
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 25em
+  links:
+    - text: Email
+      icon: envelope
+      href: dehaochen888@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/chendeh
+    - text: TikTok
+      icon: tiktok
+      href: https://tiktok.com
+    - text: Resume
+      icon: file-text
+      href: resume.pdf
+  id: ppc
 ---
+:::{#ppc}
+Hello everyone! This is my first Quarto website.
 
-This is a Quarto website.
+This is a picture of my cat and I. 
+His name is Shumai! He is a British Shorthair breed. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+
+
+Here is another picture.
+
+  ![Him sleeping like he pays the bills](shumai2.png)
+
+If you think he is cute, then you should consider hiring me for the job!
+:::
+
+## Skills
+
+- Advanced Data Visualization with ggplot2
+- Web Development using HTML, RStudio, and Github  
+- Data Cleaning and Analysis with R and SQL
+
+## Education
+
+- B.S. in Information Systems, Minor in Data Science University of Colorado Denver 
+- GPA: 3.87
+- Relevant Courses: Data Wrangling & Visualization, Business Data & Database Management, Programming for Data Science   
+
+

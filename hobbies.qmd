@@ -1,0 +1,21 @@
+---
+title: "My Three Favorite Hobbies"
+about: 
+  template: solana
+---
+
+## Listening to Music 🎶
+
+Music has always been more than just background noise for me, it’s a way to process my emotions and escape from reality. Whether it's piano anime songs while studying, emotional songs during tough times, or upbeat hip pop when I need a mood boost, music gives me space to reflect and reset. I wouldn't say I'm a music expert, but I'm passionate about discovering new genres and creating playlists for every mood.
+![Frank Ocean is my favorite artist](music.jpg)
+
+## Going to the Gym 🏋
+
+Fitness plays a huge role in my daily life. I started going to the gym to improve my health and meet personal goals, but over time it became something I genuinely look forward to. It gives me structure, helps relieve stress, and pushes me to stay disciplined. I'm not a professional athlete, but I’ve made great progress and am proud of how far I've come.
+
+
+## Fashion 👖
+
+Fashion is one of the ways I express myself and feel confident. I love putting together outfits that reflect my mood, personality, or even the weather. It’s not about trends, it’s about finding what feels good and shows the world who I am.
+
+![](fashion.jpg)
